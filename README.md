@@ -1,7 +1,7 @@
 # A-Mel: Resource-efficient Deep Learning for Precise Early Melanoma Diagnosis
 
 <p align="center">
-  <img src="image/whole_structure.png" alt="A-Mel" height="30%"/>
+  <img src="image/whole_structure.png" alt="A-Mel" height="400px">
 </p>
 <p align="center">
   <b>Fig. 1.</b> Whole structure for A-Mel<br>
@@ -18,7 +18,7 @@ A-Mel comprises three integrated sequential modules:
 - **Melanoma Classification**
 
 <p align="center">
-  <img src="image/mel_campare.png" alt="A-Mel" width="80%"/>
+  <img src="image/mel_campare.png" alt="A-Mel2" width="80%"/>
 </p>
 
 <p align="center">
