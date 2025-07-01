@@ -1,12 +1,7 @@
 # A-Mel: Resource-efficient Deep Learning for Precise Early Melanoma Diagnosis
 
 <p align="center">
-  <img src="image/mel_campare.png" alt="A-Mel" width="80%"/>
-</p>
-
-<p align="center">
-  <b>Fig. 1.</b> Visual comparison of different hair artifact removal methods.<br>
-  a) Dermoscopic image with synthetic hair artifacts, b) Ground truth lesion mask, c) Original (clean) dermoscopic image, d) FastCUT, e) Swin-Unet, f) QGAN, g) PatchGAN, h) Directly U-Net, i) U-Net with inpainting, j) R-MNet, k) U²-Net, l) CBAM-enhanced U²-Net, m) A-Mel (ours).
+  <img src="image/mel_campare.png" alt="A-Mel">
 </p>
 
 
@@ -19,6 +14,15 @@ A-Mel comprises three integrated sequential modules:
 - **Hair Artifact Removal Preprocessing**
 - **Pathological Lesion Segmentation**
 - **Melanoma Classification**
+
+<p align="center">
+  <img src="image/mel_campare.png" alt="A-Mel" width="80%"/>
+</p>
+
+<p align="center">
+  <b>Fig. 2.</b> Visual comparison of different hair artifact removal methods.<br>
+  a) Dermoscopic image with synthetic hair artifacts, b) Ground truth lesion mask, c) Original (clean) dermoscopic image, d) FastCUT, e) Swin-Unet, f) QGAN, g) PatchGAN, h) Directly U-Net, i) U-Net with inpainting, j) R-MNet, k) U²-Net, l) CBAM-enhanced U²-Net, m) A-Mel (ours).
+</p>
 
 ## Key Features
 
