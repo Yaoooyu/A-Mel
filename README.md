@@ -1,7 +1,7 @@
 # A-Mel: Resource-efficient Deep Learning for Precise Early Melanoma Diagnosis
 
 <p align="center">
-  <img src="image/whole_structure.png" alt="A-Mel" width="50%"/>
+  <img src="image/whole_structure.png" alt="A-Mel" height="50%"/>
 </p>
 <p align="center">
   <b>Fig. 1.</b> Whole structure for A-Mel<br>
