@@ -1,5 +1,8 @@
 # A-Mel: Resource-efficient Deep Learning for Precise Early Melanoma Diagnosis
 
+![A-Mel](image/mel_campare.pdf)
+Visual comparison of different hair artifact removal methods. a) Dermoscopic image with synthetic hair artifacts, b) Ground truth lesion mask, c) Original (clean) dermoscopic image, d) FastCUT, e) Swin-Unet, f) QGAN, g) PatchGAN, h) Directly U-Net, i) U-Net with inpainting, j) R-MNet, k) U²-Net, l) CBAM-enhanced U²-Net, m) A-Mel (ours).
+
 ## Overview
 
 Early and precise diagnosis of melanoma significantly improves patient prognosis. **A-Mel** is a state-of-the-art, resource-efficient deep learning agent designed specifically for early melanoma diagnosis. Our approach overcomes key challenges including occlusion by hair, varied lesion morphologies, and limited computational resources in clinical environments.
